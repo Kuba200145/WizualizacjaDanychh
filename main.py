@@ -74,7 +74,6 @@
 # print(imie.split())
 
 #Zad9
-# a='Marek'
 # b= 25
 # c=255
 #
